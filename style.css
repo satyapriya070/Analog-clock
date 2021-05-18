@@ -17,7 +17,7 @@ section{
 }
 .clock{
    
-    background: url("./img/watch.png");
+    background: url("./watch.png");
     width: 297px;
     height: 300px;
     display: flex;
